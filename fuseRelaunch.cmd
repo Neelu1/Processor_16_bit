@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/work/fpga/processor1/up1_isim_beh.exe" -prj "D:/work/fpga/processor1/up1_beh.prj" "work.up1" "work.glbl" 
